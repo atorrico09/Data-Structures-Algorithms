@@ -3,7 +3,7 @@ package com.atorrico.data_structures_algorithms
 import junit.framework.Assert.assertEquals
 import org.junit.Test
 
-class FindPairWithGivenSumInArrayTest {
+class `1_FindPairWithGivenSumInArrayTest` {
     @Test
     fun findPairByBruteForce_returnPairFound(){
         val arr = arrayOf(8, 7, 2, 5, 3, 1)
