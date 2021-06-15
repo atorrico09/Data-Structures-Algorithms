@@ -1,4 +1,4 @@
-package com.atorrico.data_structures_algorithms
+package com.atorrico.data_structures_algorithms.util
 
 class CustomHashMap<A, B> {
 

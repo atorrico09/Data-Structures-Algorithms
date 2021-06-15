@@ -1,5 +1,6 @@
 package com.atorrico.data_structures_algorithms
 
+import com.atorrico.data_structures_algorithms.util.CustomHashMap
 import junit.framework.Assert.assertEquals
 import org.junit.Test
 
