@@ -3,7 +3,7 @@ package com.atorrico.data_structures_algorithms
 import org.junit.Assert.assertEquals
 import org.junit.Test
 
-class SortBinaryArrayLinearTimeTest {
+class `4_SortBinaryArrayLinearTimeTest` {
 
     @Test
     fun sortBinaryArrayInLinearTimeByBruteForce_returnNumbersSorted(){
